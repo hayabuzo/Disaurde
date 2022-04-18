@@ -43,19 +43,23 @@ Holding down these buttons puts them into automatic pressing mode.
 
 **✖** — exit from the menu while saving the previous settings.
 
-## Menu for creating filters.
+## Filters building.
 
 The blocks with effects are located in the upper part of the window. Selected block is added to the current filter at the bottom of the screen. The effects in the filter correspond to its name and are executed sequentially, from left to right. The DEL button deletes the last block in the filter. The OK button activates the created filter in shooting mode. The name of the filter, when clicked, returns the current filter specified at the top. The DATA button leads to the menu for saving and loading filters.
 
-### Description of blocks.
+## Description of blocks.
 
+Common:
+
+* **Ro** — Mrrror output
+* **Ri** — Mrrror input
 * **Ed** — Edges
 * **Ol** — Threshold
 * **It** — Dithering
 * **Mo** — Mosaic
 * **Lu** — Blur 
 
-
+Color:
 
 * **Co** — Color Change
 * **To** — Duotone
@@ -63,49 +67,37 @@ The blocks with effects are located in the upper part of the window. Selected bl
 * **Ne** — Negative
 * **Os** — Posterize
 
-
+Distortion:
 
 * **Do** — Displace Output
 * **Di** — Displace Input
-
-
-
 * **Sy** — Symmetry
 * **Wa** — Wave
 * **Wo** — Watercolor
 
-
+Feedback:
 
 * **Fo** — Feedback Output
 * **Fi** — Feedback Input
-
-
-
 * **Zo** — Zoom Feedback
 * **Ex** — Expanding Feedback
 * **De** — Channels Delay
 
-
+Alpha channel:
 
 * **So** — Threshold Shutter Output
 * **Si** — Threshold Shutter Input
+* **Al** — Alpha White
+* **Af** — Alpha Feedback
 
-
-
-* **Al** — Alpha White — установка прозрачности изображения через его яркость.
-* **Af** — Alpha Feedback — установка обратной связи с выходным изображением через его яркость.
-
-
+Blend:
 
 * **Bo** — Blend Output
 * **Bi** — Blend Input
-
-
-
 * **Li** — Lighten
 * **Qu** — Quarter Mix
 
-
+Stamp:
 
 * **St** — Stamp
 * **Oo** — Spots
