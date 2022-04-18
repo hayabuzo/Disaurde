@@ -1,6 +1,8 @@
 # Disaurde
 Tool for building realtime camera effects with visual blocks.
 
+![image](https://user-images.githubusercontent.com/38255514/163818147-bfed6397-0140-4ee2-a4bc-6f1e279777dc.png)
+
 Disaurde is a browser-based realtime filter processor. It allows to create graphic filters from separate blocks with visual effects.
 
 ## Shooting mode.
