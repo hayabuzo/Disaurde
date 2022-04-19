@@ -1,1 +1,1 @@
-These are examples of filters, that could be imported from **DATA** -> **IMPORT** menu.
+These are examples of filters, that could be imported in Disaurde with **DATA** -> **IMPORT** menu.
