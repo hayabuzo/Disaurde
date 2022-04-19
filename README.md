@@ -53,11 +53,11 @@ Holding down these buttons puts them into automatic pressing mode.
 
 ## Filters building.
 
-The blocks with effects are located in the upper part of the window. Selected block is added to the current filter at the bottom of the screen. The effects in the filter correspond to its name and are executed sequentially, from left to right. The DEL button deletes the last block in the filter. The OK button activates the created filter in shooting mode. The name of the filter, when clicked, returns the current filter specified at the top. The DATA button leads to the menu for saving and loading filters.
+The blocks with effects are located in the upper part of the window. Selected block is added to the current filter at the bottom of the screen. The effects in the filter correspond to its name and are executed sequentially, from left to right. The **DEL** button deletes the last block in the filter. The **OK** button activates the created filter in shooting mode. The name of the filter, when clicked, returns the current filter specified at the top. The **DATA** button leads to the menu for saving and loading filters.
 
 ## Description of blocks.
 
-Common:
+**Common**:
 
 * **Ro** — Mrrror output
 * **Ri** — Mrrror input
@@ -67,7 +67,7 @@ Common:
 * **Mo** — Mosaic
 * **Lu** — Blur 
 
-Color:
+**Color**:
 
 * **Co** — Color Change
 * **To** — Duotone
@@ -75,7 +75,7 @@ Color:
 * **Ne** — Negative
 * **Os** — Posterize
 
-Distortion:
+**Distortion**:
 
 * **Do** — Displace Output
 * **Di** — Displace Input
@@ -83,7 +83,7 @@ Distortion:
 * **Wa** — Wave
 * **Wo** — Watercolor
 
-Feedback:
+**Feedback**:
 
 * **Fo** — Feedback Output
 * **Fi** — Feedback Input
@@ -91,21 +91,21 @@ Feedback:
 * **Ex** — Expanding Feedback
 * **De** — Channels Delay
 
-Alpha channel:
+**Alpha channel**:
 
 * **So** — Threshold Shutter Output
 * **Si** — Threshold Shutter Input
 * **Al** — Alpha White
 * **Af** — Alpha Feedback
 
-Blend:
+**Blend**:
 
 * **Bo** — Blend Output
 * **Bi** — Blend Input
 * **Li** — Lighten
 * **Qu** — Quarter Mix
 
-Stamp:
+**Stamp**:
 
 * **St** — Stamp
 * **Oo** — Spots
