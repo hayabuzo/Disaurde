@@ -1211,8 +1211,8 @@ function settings_load(q) {
   
     //                                        default values
     cam_type     = loaded & set[2]>=0  ? set[2]  :  2     ; 
-    density      = loaded & set[5]>=0  ? set[5]  :  1.0   ;
-    quality      = loaded & set[0]>0   ? set[0]  :  1.0   ;      if(q=="q") return;
+    density      = loaded & set[5]>=0  ? set[5]  :  0.5   ;
+    quality      = loaded & set[0]>0   ? set[0]  :  0.5   ;      if(q=="q") return;
     burst[0]     = loaded & set[1]>0   ? set[1]  :  2     ; 
     file_type    = loaded & set[3]     ? set[3]  :  'jpg' ; 
     frame[1]     = loaded              ? set[4]  :  1     ;      // might be error with '0' frame transformed into '' after loading
