@@ -1,5 +1,5 @@
 # Disaurde (p5js/webgl)
-Tool for building realtime camera effects with visual blocks.
+Tool for building real time camera effects with visual blocks.
 
 ![image](https://user-images.githubusercontent.com/38255514/163818147-bfed6397-0140-4ee2-a4bc-6f1e279777dc.png)
 
