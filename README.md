@@ -112,4 +112,4 @@ The blocks with effects are located in the upper part of the window. Selected bl
 * **Aa** — Characters and Figures
 * **Um** — Thumbnails
 
-
+[Comparsion](https://github.com/hayabuzo/Disaurde/blob/main/DisaurdeBlocks.xlsx) of blocks between v.303 and v.331
